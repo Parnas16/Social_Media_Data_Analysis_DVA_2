@@ -158,17 +158,15 @@ Each record includes:
 - NLTK
 
 ---
+## 🎓 Mentor
+P. Srikanth
+
+🔗 GitHub: https://github.com/srikanth5
 
 ## 👩‍💻 Authors
 J. Parna Sree
 
 🔗 GitHub: https://github.com/Parnas16
-
-🎓 Mentor
-
-P. Srikanth
-
-🔗 GitHub: https://github.com/srikanth5
 
 
 ## 🚀 How to Run
@@ -176,21 +174,3 @@ P. Srikanth
 1. Install dependencies:
 ```bash
 pip install transformers datasets evaluate jiwer rouge-score networkx matplotlib seaborn nltk scikit-learn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
