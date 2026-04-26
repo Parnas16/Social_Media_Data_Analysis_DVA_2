@@ -320,7 +320,7 @@ print("TF-IDF Features:", tfidf_features.shape)
 print("BoW Features:", bow_features.shape)
 print("BERT Embeddings:", embeddings_array.shape)
 
-"""## Step 8: Step-by-Step Visualizations (After Vectorization)"""
+"""## Step 8: Dimensionality Reduction """
 
 # Visualization 4: PCA dimensionality reduction of extracted embeddings
 print("Applying PCA to reduce embeddings to 2D for visualization...")
