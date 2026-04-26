@@ -25,6 +25,7 @@ The dataset consists of **500,000 simulated records** across English and multipl
 
 * **Data Generation** – Created large-scale multilingual dataset
 * **Preprocessing** – Cleaned captions (removed noise like hashtags, mentions)
+* **Exploratory Data Analysis (EDA)** - Language distribution analysis , Caption length statistics
 * **Vectorization** – TF-IDF, Bag of Words, and BERT embeddings
 * **Dimensionality Reduction** – PCA and t-SNE for visualization
 * **Classification** – Logistic Regression, Naive Bayes, Random Forest, ANN
