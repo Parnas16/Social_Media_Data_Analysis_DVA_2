@@ -8,13 +8,21 @@ This project focuses on designing and implementing a complete data analysis pipe
 The dataset contains 500,000 simulated records including user profiles, captions in multiple languages, engagement metrics, and network relationships.
 
 🎯 Objectives
+
 Process and analyze multilingual text data
+
 Perform feature extraction and vectorization
+
 Apply dimensionality reduction for visualization
+
 Build classification models for language detection
+
 Visualize social network relationships
+
 Extract meaningful insights from large-scale data
+
 🧱 Dataset Description
+
 Each record in the dataset includes:
 👤 User Profile Data
 User ID
