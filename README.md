@@ -1,6 +1,8 @@
 # Social_Media_Data_Analysis_DVA_2
 # 📊 Multilingual Social Network Data Analysis using NLP & Machine Learning
 
+---
+
 ## 📌 Project Overview
 
 This project implements a **complete data analysis pipeline** for a synthetic Instagram-like social network dataset. It combines **Natural Language Processing (NLP), Machine Learning, Deep Learning, and Network Analysis** to process and analyze multilingual user-generated content.
@@ -19,6 +21,17 @@ The dataset consists of **500,000 simulated records** across English and multipl
 - Extract insights from large-scale data
 
 ---
+## ⚙️ Key Steps
+
+* **Data Generation** – Created large-scale multilingual dataset
+* **Preprocessing** – Cleaned captions (removed noise like hashtags, mentions)
+* **Vectorization** – TF-IDF, Bag of Words, and BERT embeddings
+* **Dimensionality Reduction** – PCA and t-SNE for visualization
+* **Classification** – Logistic Regression, Naive Bayes, Random Forest, ANN
+* **Prediction** – Language detection on new inputs
+* **Graph Visualization** – Social network analysis using NetworkX
+
+----
 
 ## 🧱 Dataset Description
 
