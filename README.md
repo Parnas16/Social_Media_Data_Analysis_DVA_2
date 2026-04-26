@@ -169,8 +169,3 @@ J. Parna Sree
 🔗 GitHub: https://github.com/Parnas16
 
 
-## 🚀 How to Run
-
-1. Install dependencies:
-```bash
-pip install transformers datasets evaluate jiwer rouge-score networkx matplotlib seaborn nltk scikit-learn
